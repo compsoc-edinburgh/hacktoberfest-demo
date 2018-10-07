@@ -18,3 +18,4 @@ fork the repo and add your name!
 - Divy Bramhecha
 - Owen Fuller
 - Marise Treseder
+- Tallie Blanshard
