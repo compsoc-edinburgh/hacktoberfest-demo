@@ -10,3 +10,4 @@ fork the repo and add your name!
 - Joe Moncrieff
 - Fraser Scott
 - Malavika Venkatesh
+- Ryan Schuller
