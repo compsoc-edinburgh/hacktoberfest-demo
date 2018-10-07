@@ -9,3 +9,4 @@ fork the repo and add your name!
 - Petr Vesely
 - Joe Moncrieff
 - Fraser Scott
+- Malavika Venkatesh
