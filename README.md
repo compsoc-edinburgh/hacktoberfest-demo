@@ -15,4 +15,4 @@ fork the repo and add your name!
 - Adam Blance
 - Eddie Huynh
 - Gosia Borowiec
-
+- Divy Bramhecha
