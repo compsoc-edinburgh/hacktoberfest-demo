@@ -11,3 +11,4 @@ fork the repo and add your name!
 - Fraser Scott
 - Malavika Venkatesh
 - Ryan Schuller
+- Dimitris Christodoulou
