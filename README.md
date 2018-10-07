@@ -21,3 +21,4 @@ fork the repo and add your name!
 - Tallie Blanshard
 - Lorna Armstrong
 - Sinn
+- Gagan Devagiri
