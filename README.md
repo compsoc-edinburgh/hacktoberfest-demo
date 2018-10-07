@@ -19,3 +19,4 @@ fork the repo and add your name!
 - Owen Fuller
 - Marise Treseder
 - Tallie Blanshard
+- Lorna Armstrong
