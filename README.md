@@ -16,3 +16,4 @@ fork the repo and add your name!
 - Eddie Huynh
 - Gosia Borowiec
 - Divy Bramhecha
+-Owen Fuller
