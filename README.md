@@ -22,3 +22,4 @@ fork the repo and add your name!
 - Lorna Armstrong
 - Sinn
 - Gagan Devagiri
+- Carlin Mackenzie
