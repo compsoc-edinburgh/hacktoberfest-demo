@@ -14,4 +14,5 @@ fork the repo and add your name!
 - Dimitris Christodoulou
 - Adam Blance
 - Eddie Huynh
+- Gosia Borowiec
 
