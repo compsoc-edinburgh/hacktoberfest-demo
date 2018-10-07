@@ -12,3 +12,4 @@ fork the repo and add your name!
 - Malavika Venkatesh
 - Ryan Schuller
 - Dimitris Christodoulou
+- Adam Blance
