@@ -20,3 +20,4 @@ fork the repo and add your name!
 - Marise Treseder
 - Tallie Blanshard
 - Lorna Armstrong
+- Sinn
