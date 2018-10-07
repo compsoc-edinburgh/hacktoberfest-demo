@@ -6,3 +6,4 @@ fork the repo and add your name!
 - Patrick Kage
 - Youssef Bonnaire
 - Kyle Cotton
+- Petr Vesely
