@@ -13,3 +13,5 @@ fork the repo and add your name!
 - Ryan Schuller
 - Dimitris Christodoulou
 - Adam Blance
+- Eddie Huynh
+
