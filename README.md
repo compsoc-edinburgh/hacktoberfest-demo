@@ -4,3 +4,5 @@ fork the repo and add your name!
 # names
 - Findlay Smith
 - Patrick Kage
+-Owen Fuller
+
