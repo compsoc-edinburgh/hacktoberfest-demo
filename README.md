@@ -23,3 +23,4 @@ fork the repo and add your name!
 - Sinn
 - Gagan Devagiri
 - Carlin Mackenzie
+- Qais Patankar
