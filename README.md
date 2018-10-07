@@ -8,3 +8,4 @@ fork the repo and add your name!
 - Kyle Cotton
 - Petr Vesely
 - Joe Moncrieff
+- Fraser Scott
