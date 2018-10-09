@@ -25,3 +25,4 @@ fork the repo and add your name!
 - Carlin Mackenzie
 - Qais Patankar
 - Sky Willis
+- Alex Wasey
