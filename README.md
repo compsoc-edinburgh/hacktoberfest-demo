@@ -25,3 +25,4 @@ fork the repo and add your name!
 - Gagan Devagiri
 - Carlin Mackenzie
 - Qais Patankar
+- Rokas Gudavicius
